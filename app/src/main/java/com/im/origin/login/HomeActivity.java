@@ -1,4 +1,4 @@
-package com.im.origin.im.ui;
+package com.im.origin.login;
 
 import com.im.origin.base.BaseActivity;
 
