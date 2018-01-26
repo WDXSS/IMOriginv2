@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6944e6a883fa81976e034d8272a801a0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a4f8ae91aa88c53c5276a6a48a97518\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\nim_touch_bg.xml",
+        "source": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\nim_touch_bg.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6944e6a883fa81976e034d8272a801a0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\de29e5238380579c6327ea04ad10a249\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b10906dee959157093d6b052adeb2c34\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\de29e5238380579c6327ea04ad10a249\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\de29e5238380579c6327ea04ad10a249\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\nim_touch_bg.xml",
+        "source": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\nim_touch_bg.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6944e6a883fa81976e034d8272a801a0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

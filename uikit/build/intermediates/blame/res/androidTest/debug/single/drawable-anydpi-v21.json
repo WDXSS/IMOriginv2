@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\901fde0f5e3c32f15d02ff1e19b740b0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\f51211f731a906762499891295dc632b\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

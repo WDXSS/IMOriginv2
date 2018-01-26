@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b10906dee959157093d6b052adeb2c34\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b10906dee959157093d6b052adeb2c34\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b10906dee959157093d6b052adeb2c34\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a4f8ae91aa88c53c5276a6a48a97518\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\demospace\\IMOrigin\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b10906dee959157093d6b052adeb2c34\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a4f8ae91aa88c53c5276a6a48a97518\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a4f8ae91aa88c53c5276a6a48a97518\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\demospace\\NIM_Android_Demo_v4.7.1\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zc\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a4f8ae91aa88c53c5276a6a48a97518\\res\\layout-v21\\notification_action.xml"
+    }
+]
